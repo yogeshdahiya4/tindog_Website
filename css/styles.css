@@ -24,7 +24,7 @@ body{
 /* end of navigation bar */
 
 #title{
-  background-color:white;
+  background-color: #ff4c68;
   padding-bottom: 50px;
   text-align: left;
 }
@@ -135,7 +135,7 @@ h2{
 margin: 1%;
   font-size: 1.7rem;
 }
-@media (max-width: 400px) {
+@media (max-width: 1000px) {
 .Heading, h2{
   font-size: 2.5rem;
 }
